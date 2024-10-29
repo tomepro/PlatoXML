@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plat>
-    <nom>Canalons</nom>
-    <minidescripcio>Deliciosos canalons farcits de carn i coberts amb salsa beixamel.</minidescripcio>
-    <preu>15.00</preu>
-    <intolerancies>
-        <intolerancies>Gluten</intolerancies>
-        <intolerancies>Lactics</intolerancies>
-    </intolerancies>
-</plat>
+<plats>
+    <plat>
+        <nom>Canalons</nom>
+        <minidescripcio>Deliciosos canalons farcits de carn i coberts amb salsa beixamel.</minidescripcio>
+        <preu>15.00</preu>
+        <intolerancies>
+            <intolerancia>Gluten</intolerancia>
+            <intolerancia>Làctics</intolerancia>
+        </intolerancies>
+    </plat>
+    
+    <plat>
+        <nom>Paella</nom>
+        <minidescripcio>Tradicional paella de marisc amb arròs i verdures.</minidescripcio>
+        <preu>18.00</preu>
+        <intolerancies>
+            <intolerancia>Marisc</intolerancia>
+            <intolerancia>Gluten</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Escudella i Carn d'Olla</nom>
+        <minidescripcio>Plat tradicional català amb sopa i carn variada.</minidescripcio>
+        <preu>14.00</preu>
+        <intolerancies>
+            <intolerancia>Gluten</intolerancia>
+            <intolerancia>Làctics</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Botifarra amb Mongetes</nom>
+        <minidescripcio>Botifarra a la brasa servida amb mongetes blanques.</minidescripcio>
+        <preu>12.50</preu>
+        <intolerancies>
+            <intolerancia>Gluten</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Crema Catalana</nom>
+        <minidescripcio>Dessert típic de crema amb caramel cruixent.</minidescripcio>
+        <preu>6.00</preu>
+        <intolerancies>
+            <intolerancia>Làctics</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Pà de Cebes</nom>
+        <minidescripcio>Pà elaborat amb ceba caramel·litzada i formatge.</minidescripcio>
+        <preu>4.50</preu>
+        <intolerancies>
+            <intolerancia>Gluten</intolerancia>
+            <intolerancia>Làctics</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Tortell de Reis</nom>
+        <minidescripcio>Pastís dolç tradicional per celebrar el Dia de Reis.</minidescripcio>
+        <preu>20.00</preu>
+        <intolerancies>
+            <intolerancia>Làctics</intolerancia>
+            <intolerancia>Ous</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Fideuà</nom>
+        <minidescripcio>Similar a la paella, però amb fideus en comptes d'arròs.</minidescripcio>
+        <preu>17.00</preu>
+        <intolerancies>
+            <intolerancia>Gluten</intolerancia>
+            <intolerancia>Marisc</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Calçots amb Salsa Romesco</nom>
+        <minidescripcio>Calçots a la brasa servits amb una deliciosa salsa romesco.</minidescripcio>
+        <preu>10.00</preu>
+        <intolerancies>
+            <intolerancia>Gluten</intolerancia>
+            <intolerancia>Fruits secs</intolerancia>
+        </intolerancies>
+    </plat>
+
+    <plat>
+        <nom>Mongetes amb Tomàquet</nom>
+        <minidescripcio>Mongetes tendres amb una deliciosa salsa de tomàquet.</minidescripcio>
+        <preu>8.00</preu>
+        <intolerancies>
+            <intolerancia>Làctics</intolerancia>
+        </intolerancies>
+    </plat>
+</plats>
