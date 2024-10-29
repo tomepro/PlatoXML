@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plat>
+    <nom>Canalons</nom>
+    <minidescripcio>Deliciosos canalons farcits de carn i coberts amb salsa beixamel.</minidescripcio>
+    <preu>15.00</preu>
+    <intolerancies>
+        <intolerancies>Gluten</intolerancies>
+        <intolerancies>Làctics</intolerancies>
+    </intolerancies>
+</plat>
