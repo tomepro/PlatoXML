@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+#carta {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #c7c7c7;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(83, 83, 83);
+}
